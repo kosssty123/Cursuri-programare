@@ -1,0 +1,42 @@
+Tabel simplu
+
+<!DOCTYPE html;>
+<html>
+<head>
+    <TITLE> SDSGD</TITLE>
+</head>
+<body>
+    / pentru chenar obligatoriu solid
+    <style>
+        table, th, td{
+            border:2px solid blue
+
+        }
+        
+    </style>
+    <table>
+         <tr>
+             <th>titlu 1</th>
+             <th>titlu 2</th>
+             <th>titlu 3</th>
+        </tr>
+        <tr>
+            <td>abc</td>
+            <td>efg</td>
+            <td>hij</td>
+        </tr>
+        <tr>
+            <td>abc</td>
+            <td>efg</td>
+            <td>hij</td>
+        </tr>
+        <tr>
+            <td>abc</td>
+            <td>efg</td>
+            <td>hij</td>
+        </tr>
+
+        </table>
+        
+        </body>
+</html>

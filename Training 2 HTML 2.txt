@@ -1,0 +1,147 @@
+<!DOCTYPE html;>
+<html>
+<head>
+    <TITLE> SDSGD</TITLE>
+</head>
+<body>
+    <h4>LINKURI EXTERNE</h4>
+
+ <a href='body.html' target="_blank" title='Curs HTML'>Curs HTML</a><br>
+  <a href="test.html" target="_blank" title="curs"><img src="2887a37a51091ee82e568de7cff9ae3c.jpg" width="300"height="300" ></a>
+  
+
+  <br>/ link  catre o pagina din doc subdirector
+  <br><a href='ab/ade.html' target="_blank" title='Curs HTML'>Curs HTML</a><br>
+
+  /link catre pagina din director anterior/ nu merge  doar exemplu
+  <br><a href='../ade.html' target="_blank" title='Curs HTML'>Curs HTML</a><br>
+  <br>
+
+/atributul target/<br><br>
+
+<a href="https://marplo.net/html/linkuri.html" target="_blank">Atribute</a><br>
+<a href="https://marplo.net/html/linkuri.html" target="_top">Atribute</a><br>
+<a href="https://marplo.net/html/linkuri.html" target="_parent">Atribute</a>
+
+/harti de imagini/
+
+<div style='text-align:center'>
+<img src="a-set-of-simple-cartoon-ppt-background-images.jpg" usemap="#a-set-of-simple-cartoon-ppt-background-images" width="280" height="160" >
+<map name="a-set-of-simple-cartoon-ppt-background-images">
+<area shape="rect" coords="20,20,70,70" href="https://marplo.net/html/linkuri.html" title='curs'>
+<area shape="rect" coords="20,90,120,140" href="pag2.html">
+<area shape="circle" coords="200,80,30" href="pag3.html">
+<area shape="circle" coords="200,80,60" href="pag1.html">
+<area shape="poly" coords="90,70,120,70,120,20" href="pag3.html">
+</map>
+    </div>
+    <br><br>
+
+tabele 
+
+    <style>
+        th,table,td{
+            color:forestgreen;
+            border:1px solid #000;
+        }
+    </style>
+    <table>
+    <tr>
+        <th>titlu 1</th>
+        <th>titlu 2</th>
+        <th>titlu 3</th>
+    
+    </tr>
+    <tr>
+        <td>linia2 coloana 1</td>
+        <td>linia2 coloana 1</td>
+        <td>linia2 coloana 1</td>
+        
+    </tr>
+    <tr>
+        <td>linia2 coloana 1</td>
+        <td>linia2 coloana 1</td>
+        <td>linia2 coloana 1</td>
+        
+    </tr>
+    <tr>
+        <td>linia2 coloana 1</td>
+        <td>linia2 coloana 1</td>
+        <td>linia2 coloana 1</td>
+        
+    </tr>
+    
+</body>
+</html>
+
+2.
+
+<!DOCTYPE html;>
+<html>
+<head>
+    <TITLE> SDSGD</TITLE>
+</head>
+<body>
+    <h4>LINKURI EXTERNE</h4>
+ <a href='body.html' target="_blank" title='Curs HTML'>Curs HTML</a><br>
+  <a href="test.html" target="_blank" title="curs"><img src="2887a37a51091ee82e568de7cff9ae3c.jpg" width="300"height="300" ></a>
+  
+  <br>/ link  catre o pagina din doc subdirector
+  <br><a href='ab/ade.html' target="_blank" title='Curs HTML'>Curs HTML</a><br>
+  /link catre pagina din director anterior/ nu merge  doar exemplu
+  <br><a href='../ade.html' target="_blank" title='Curs HTML'>Curs HTML</a><br>
+  <br>
+/atributul target/<br><br>
+<a href="https://marplo.net/html/linkuri.html" target="_blank">Atribute</a><br>
+<a href="https://marplo.net/html/linkuri.html" target="_top">Atribute</a><br>
+<a href="https://marplo.net/html/linkuri.html" target="_parent">Atribute</a><br>
+/harti de imagini/
+<div style='text-align:center'>
+<img src="a-set-of-simple-cartoon-ppt-background-images.jpg" usemap="#a-set-of-simple-cartoon-ppt-background-images" width="280" height="160" >
+<map name="a-set-of-simple-cartoon-ppt-background-images">
+<area shape="rect" coords="20,20,70,70" href="https://marplo.net/html/linkuri.html" title='curs'>
+<area shape="rect" coords="20,90,120,140" href="pag2.html">
+<area shape="circle" coords="200,80,30" href="pag3.html">
+<area shape="circle" coords="200,80,60" href="pag1.html">
+<area shape="poly" coords="90,70,120,70,120,20" href="pag3.html">
+</map>
+    </div>
+    <br><br>
+    \tabele\
+    <style>
+        th,table,td{
+            color:forestgreen;
+            border:1px solid #000;
+        }
+    </style>
+    <table>
+    <tr>
+        <th>titlu 1</th>
+        <th>titlu 2</th>
+        <th>titlu 3</th>
+    
+    </tr>
+    <tr>
+        <td>linia2 coloana 1</td>
+        <td>linia2 coloana 1</td>
+        <td>linia2 coloana 1</td>
+        
+    </tr>
+    <tr>
+        <td>linia2 coloana 1</td>
+        <td>linia2 coloana 1</td>
+        <td>linia2 coloana 1</td>
+        
+    </tr>
+    <tr>
+        <td>linia2 coloana 1</td>
+        <td>linia2 coloana 1</td>
+        <td>linia2 coloana 1</td>
+        
+    </tr>
+    
+</table>
+</body>
+</html>
+
+

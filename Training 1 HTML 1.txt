@@ -1,0 +1,234 @@
+<!DOCTYPE html;>
+<html>
+    <head>
+        <title>Program training HTML </title>
+    </head>
+    <body>
+        <H1><div style='text-align:center'>Heading-uri:Text aliniat pe centru</div></H1>
+        <p><div style='text-align:right'>Paragrafe aliniat in dreapta</div></p>
+        <p><div style='text-align:left'>Paragrafe aliniat in stinga</div></p>
+        <div style="color:green;font-size:26px">Eu merg la mare</div>
+        <i><u><b>text subliniat si modificari aferente</b></u></i>
+        <body style="background-color: yellowgreen">Culoare fond </body>
+        <H2><div style='text-align:center'>Liste</div></H2>
+        <style>
+            
+            ol{
+                color:rgb(0, 255, 157);
+                font-size:20px;  
+               
+            }
+            ul{
+                color:rgb(255, 72, 0);
+                font-size:20px;  
+            }
+        </style>
+        <b>
+        <ol>
+            <li>unul </li>
+            <li>doi</li>  
+            <li>trei</li> 
+        </ol>
+        </b>
+        <i>
+        <ul > cerculet
+          <li>figaro</li>
+          <li>rerere</li>
+        </ul>
+        <ul type='square'> patratel
+            <li>figaro</li>
+            <li>rerere</li>
+          </ul>
+          <ol type='i'>
+              <li>unu</li>
+              <ul>
+                  <li>fkgfg</li>
+                  <li>hfhdf</li>
+              </ul>
+              <li>doi</li>
+              <ul>
+                <li>fkgfg</li>
+                <li>hfhdf</li>
+            </ul>
+          </ol>
+          </i>
+    <b><em><>Arata textul ca si italic</em></b>
+    <pre>Preformed abecedar</pre>
+    <strong> Strong </strong> 
+    <cite> Citatie </cite> 
+    <del> Text taiat </del><br>
+	<small> Prezinta textul intr-un font mic </small><br>
+	 costel<sub> alina </sub><br><br>
+      costel<sup> Alina </sup><br>
+      <dfn>Termen inchis</dfn>
+      <q>citate scurte</q>
+      <b><div style='color:rgb(255, 47, 109);font-size:30px'><blockquote>Bucuriile neimpartasite pot aduce tristete iar suferinta impartasita poate sa aduca bucurie<br>
+        Aceasta este prima zi din restul vietii tale.<br>
+        Viata e frumoasa
+    </blockquote></div></b>
+    <address>Strada Dambovitei nr 52<br>
+        Cluj, Romania
+    </address>
+    <ol type='i' start='3' reversed>
+        <li>List item 1 ...</li>
+        <li>List item 2 ...</li>
+        <li>List item 3 ...</li>
+        </ol>
+        <ol>
+ <li><p>Acesta e un paragraph<br>
+ O noua linie...</p></li>
+ <li>Tutorial HTML:
+ <ul type='square'>
+ <li>Lista UL imbricata.</li>
+ <li>Alta lista imbricata.</li>
+ </ul>
+ </li>
+ <li>Rabdare cu Iubire, si invers.</li>
+</ol>
+<details>
+    <P>Paragraf in tag</P>
+    <li>o linie </li>
+    <li>a doua linie</li>   
+</details>
+<details>
+    <summary>click pebntru detalii</summary>
+    <blockquote>
+        Daruieste Pace si Bucurie, vei primi Fericire.<br>
+Iarta(-te), multumeste si iubeste, primesti ce si cum daruiesti.<br>
+<img src='https://st-gdefon.gallery.world/wallpapers_original/248657_gallery.world.jpg' width='500' height='300' alt='Smile'/>
+    </blockquote>
+</details>
+<details>
+<img src='2887a37a51091ee82e568de7cff9ae3c.jpg'width='500' height='300'>
+</details>
+<body background="https://wallpaperstock.net/winter-trees-snowy-road-sunset_wallpapers_48785_1920x1200.jpg"></body>
+ /culoarea linkului;cand pagina a fost vizitat;cand mousul este deasupra lor/
+<style>
+a{
+   color:red}
+ a:visited {color: greenyellow;}
+  a:hover{ color :yellow;}
+</style>
+<a href='https://www.google.ro/'>Google</a><br>
+<a href='Untitled-1.html'> <img src='2887a37a51091ee82e568de7cff9ae3c.jpg'width='500' height='300'></a>
+</html>
+
+
+
+2.
+
+<!DOCTYPE html;>
+<html>
+    <head>
+        <title>Program training HTML </title>
+    </head>
+    <body>
+        <H1><div style='text-align:center'>Heading-uri:Text aliniat pe centru</div></H1>
+        <p><div style='text-align:right'>Paragrafe aliniat in dreapta</div></p>
+        <p><div style='text-align:left'>Paragrafe aliniat in stinga</div></p>
+        <div style="color:green;font-size:26px">Eu merg la mare</div>
+        <i><u><b>text subliniat si modificari aferente</b></u></i>
+        <body style="background-color: yellowgreen">Culoare fond </body>
+        <H2><div style='text-align:center'>Liste</div></H2>
+        <style>
+            
+            ol{
+                color:rgb(0, 255, 157);
+                font-size:20px;  
+               
+            }
+            ul{
+                color:rgb(255, 72, 0);
+                font-size:20px;  
+            }
+        </style>
+        <b>
+        <ol>
+            <li>unul </li>
+            <li>doi</li>  
+            <li>trei</li> 
+        </ol>
+        </b>
+        <i>
+        <ul > cerculet
+          <li>figaro</li>
+          <li>rerere</li>
+        </ul>
+        <ul type='square'> patratel
+            <li>figaro</li>
+            <li>rerere</li>
+          </ul>
+          <ol type='i'>
+              <li>unu</li>
+              <ul>
+                  <li>fkgfg</li>
+                  <li>hfhdf</li>
+              </ul>
+              <li>doi</li>
+              <ul>
+                <li>fkgfg</li>
+                <li>hfhdf</li>
+            </ul>
+          </ol>
+          </i>
+    <b><em><>Arata textul ca si italic</em></b>
+    <pre>Preformed abecedar</pre>
+    <strong> Strong </strong> 
+    <cite> Citatie </cite> 
+    <del> Text taiat </del><br>
+	<small> Prezinta textul intr-un font mic </small><br>
+	 costel<sub> alina </sub><br><br>
+      costel<sup> Alina </sup><br>
+      <dfn>Termen inchis</dfn>
+      <q>citate scurte</q>
+      <b><div style='color:rgb(255, 47, 109);font-size:30px'><blockquote>Bucuriile neimpartasite pot aduce tristete iar suferinta impartasita poate sa aduca bucurie<br>
+        Aceasta este prima zi din restul vietii tale.<br>
+        Viata e frumoasa
+    </blockquote></div></b>
+    <address>Strada Dambovitei nr 52<br>
+        Cluj, Romania
+    </address>
+    <ol type='i' start='3' reversed>
+        <li>List item 1 ...</li>
+        <li>List item 2 ...</li>
+        <li>List item 3 ...</li>
+        </ol>
+        <ol>
+ <li><p>Acesta e un paragraph<br>
+ O noua linie...</p></li>
+ <li>Tutorial HTML:
+ <ul type='square'>
+ <li>Lista UL imbricata.</li>
+ <li>Alta lista imbricata.</li>
+ </ul>
+ </li>
+ <li>Rabdare cu Iubire, si invers.</li>
+</ol>
+<details>
+    <P>Paragraf in tag</P>
+    <li>o linie </li>
+    <li>a doua linie</li>   
+</details>
+<details>
+    <summary>click pebntru detalii</summary>
+    <blockquote>
+        Daruieste Pace si Bucurie, vei primi Fericire.<br>
+Iarta(-te), multumeste si iubeste, primesti ce si cum daruiesti.<br>
+<img src='https://st-gdefon.gallery.world/wallpapers_original/248657_gallery.world.jpg' width='500' height='300' alt='Smile'/>
+    </blockquote>
+</details>
+<details>
+<img src='2887a37a51091ee82e568de7cff9ae3c.jpg'width='500' height='300'>
+</details>
+<body background="https://wallpaperstock.net/winter-trees-snowy-road-sunset_wallpapers_48785_1920x1200.jpg"></body>
+ /culoarea linkului;cand pagina a fost vizitat;cand mousul este deasupra lor/
+<style>
+a{
+   color:red}
+ a:visited {color: greenyellow;}
+  a:hover{ color :yellow;}
+</style>
+<a href='https://www.google.ro/'>Google</a><br>
+<a href='Training  HTML 2.html'> <img src='2887a37a51091ee82e568de7cff9ae3c.jpg'width='500' height='300'></a>
+</html>
+
